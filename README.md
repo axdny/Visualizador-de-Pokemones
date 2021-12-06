@@ -6,6 +6,8 @@ Ejercicio propuesto por [JonMircha](https://jonmircha.com/) en su curso ["Aprend
 
 ![](preview.png)
 
+Podes verla online [ACA](https://axdny.github.io/visualizador-de-pokemones/)
+
 ## Lenguajes utilizados ##
 * HTML
 * CSS
