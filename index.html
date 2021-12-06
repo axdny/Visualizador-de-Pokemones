@@ -35,7 +35,7 @@
 
     async function loadPokemons(url) {
       try {
-        $main.innerHTML = `<img src="/loader.svg" alt="Cargando..." class="loader">`
+        $main.innerHTML = `<img src="./loader.svg" alt="Cargando..." class="loader">`
         let res = await fetch(url);
         let json = await res.json();
         let $template = '';
